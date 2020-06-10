@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="18.409117">
+    <testcase classname="Title of your feature" name="Validating Home page" time="18.409117">
+        <system-out>
+            <![CDATA[When user lanches the Url of amkemy trip....................................passed
+Then User selects the round trip radio button...............................passed
+Then user selects from and To locations from the drop down..................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
